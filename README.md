@@ -99,10 +99,6 @@ If `MONGODB_URI` is not set, the backend will not connect to the database and so
 
 ---## 📸 Screenshots
 
-*Add your screenshots here (Login Page, Dashboard, Equipment List, etc.)*
-
----<img width="1892" height="868" alt="Screenshot 2026-04-26 125859" src="https://github.com/user-attachments/assets/ccb48d3c-1d7b-4de6-8964-5bf18fbd4012"
-
 
 ## 🎯 Future Enhancements
 
