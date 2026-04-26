@@ -201,17 +201,6 @@ cd labshare
 npm install
 ```
 
-### 3️⃣ Setup environment variables
-
-Create a `.env` file and add:
-
-```env
-MONGODB_URI="mongodb+srv://navdeepaph_db_user:3TCGnbpVpJiXp1Lf@cluster0.7if60kj.mongodb.net/?appName=Cluster0"
-
-
-JWT_SECRET="9sdf8s7df9s8df7s9df87sdf98s7df98sdf"
-```
-
 ### 4️⃣ Run the project
 
 #### Development mode
